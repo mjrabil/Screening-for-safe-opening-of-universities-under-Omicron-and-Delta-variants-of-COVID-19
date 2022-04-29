@@ -238,8 +238,8 @@ int main()
 
     double initial_U_N_S_array[] = { 4000 }; // {4000, 7000, 10000 };
     double initial_U_N_F_array[] = { 267 }; // {267, 467, 667 };
-    double initial_U_W_S_array[] = { 10000 };// { 4000, 10000 };//{4000, 7000, 10000 };
-    double initial_U_W_F_array[] = { 667 }; // { 267, 667};// { 467 }; // {267, 467, 667 };
+    double initial_U_W_S_array[] = { 4000 };// { 4000, 10000 };//{4000, 7000, 10000 };
+    double initial_U_W_F_array[] = { 267 }; // { 267, 667};// { 467 }; // {267, 467, 667 };
 
 
     //For sensitivity analysis later:
