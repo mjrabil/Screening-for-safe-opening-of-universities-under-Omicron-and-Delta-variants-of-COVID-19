@@ -1,4 +1,4 @@
-For clarity, different codes were used to generate different files.
+For clarity, different codes were used to generate different files. 
 
 To generate data for Figs 1, 2, 3(a,b) and 4(a,b), please run: customized.cpp, customized.h and customized_constants.h 
 
@@ -9,7 +9,8 @@ To generate data for the supplementary tables, please run: omicron_code_updated.
 To generate data for Fig 5, please run: omicron_varying_boosted.cpp, omicron_varying_boosted.h and omicron_varying_boosted_constants.h
 
 
-Sensitivity Analyses (used in Figures and Tables):
+
+Sensitivity Analyses (used for Figures and Tables):
 To move from 50% to 95%, please edit the command: "double OMEGA_array[] = {0.5};" by replacing 0.5 by 0.95 (and vice versa). 
 
 To move from a screening compliance of 75% to 100%, please edit the command: "ETA_array[] = {0.75};" and replace 0.75 by 1.
